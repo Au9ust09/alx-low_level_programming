@@ -4,7 +4,7 @@
  *_strlen -length of a string
  *@s: A pointer to an int that will be updated
  *
- * Return (0)
+ * Return: (0)
  */
 
 int _strlen(char *s)
