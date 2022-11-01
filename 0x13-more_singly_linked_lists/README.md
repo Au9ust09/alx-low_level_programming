@@ -1,1 +1,1 @@
-more tasks for singly linked lists
+more signly linked list task for ALX low level schooling
